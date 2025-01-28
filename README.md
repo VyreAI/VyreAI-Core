@@ -19,16 +19,6 @@
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/mit-blue.svg?style=flat-square&label=license" alt="license" style="height: 20px;">
   </a>
-  <br>
-  <a href="https://discord.gg/yourdiscordlink">
-    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square&logo=discord" alt="discord" style="height: 20px;">
-  </a>
-  <a href="https://twitter.com/LyzerAI">
-    <img src="https://img.shields.io/twitter/follow/LyzerAI?style=social" alt="twitter" style="height: 20px;">
-  </a>
-  <a href="https://www.youtube.com/c/LyzerAI">
-    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&logo=youtube" alt="youtube" style="height: 20px;">
-  </a>
 </h4>
 <br />
 
