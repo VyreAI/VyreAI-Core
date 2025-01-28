@@ -11,10 +11,9 @@
 
 <h4 align="center">
    <img height="32" width="32" src="https://simpleicons.org/icons/solana.svg" />
+  <img height="32" width="32" src="https://simpleicons.org/icons/rust.svg" />
 </h4>
 <br />
-
-[![Project license](https://img.shields.io/github/license/LyzerAI/LyzerAI-Core.svg?style=flat-square)](LICENSE)
 
 ---
 
