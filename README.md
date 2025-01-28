@@ -5,20 +5,31 @@
   </a>
 </h1>
 
-<div align="center">
-  LyzerAI
-  <br />
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/LyzerAI/LyzerAI-Core/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/LyzerAI/LyzerAI-Core/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/LyzerAI/LyzerAI-Core/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
-</div>
+<p align="center">
+  <i align="center">Transform platform engineering with tailor-made live templates and service catalog 🚀</i>
+</p>
 
-<div align="center">
+<h4 align="center">
+  <a href="https://github.com/amplication/amplication/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/amplication/amplication/ci.yml?branch=master&label=pipeline&style=flat-square" alt="continuous integration" style="height: 20px;">
+  </a>
+  <a href="https://github.com/amplication/amplication/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors-anon/amplication/amplication?color=yellow&style=flat-square" alt="contributors" style="height: 20px;">
+  </a>
+  <a href="https://opensource.org/licenses/Apache-2.0">
+    <img src="https://img.shields.io/badge/apache%202.0-blue.svg?style=flat-square&label=license" alt="license" style="height: 20px;">
+  </a>
+  <br>
+  <a href="https://amplication.com/discord">
+    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square&logo=discord" alt="discord" style="height: 20px;">
+  </a>
+  <a href="https://twitter.com/amplication">
+    <img src="https://img.shields.io/twitter/follow/amplication?style=social" alt="twitter" style="height: 20px;">
+  </a>
+  <a href="https://www.youtube.com/c/Amplicationcom">
+    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&logo=youtube" alt="youtube" style="height: 20px;">
+  </a>
+</h4>
 <br />
 
 [![Project license](https://img.shields.io/github/license/LyzerAI/LyzerAI-Core.svg?style=flat-square)](LICENSE)
