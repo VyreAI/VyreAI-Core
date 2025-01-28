@@ -12,6 +12,7 @@
 <h4 align="center">
    <img height="32" width="32" src="https://simpleicons.org/icons/solana.svg" />
   <img height="32" width="32" src="https://simpleicons.org/icons/rust.svg" />
+  <img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
 </h4>
 <br />
 
