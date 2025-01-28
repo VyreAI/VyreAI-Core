@@ -1,0 +1,22 @@
+[package]
+name = "lyzerai-core"
+version = "1.1.0"
+edition = "2025"
+description = "LyzerAI-Core: Advanced blockchain analytics powered by AI"
+license = "MIT"
+repository = "https://github.com/LyzerAI/LyzerAI-Core"
+
+[dependencies]
+actix-web = "4.0" 
+serde = { version = "1.0", features = ["derive"] }  
+serde_json = "1.0"  
+tokio = { version = "1", features = ["full"] } 
+dotenv = "0.15"  
+log = "0.4"  
+env_logger = "0.10"  
+uuid = { version = "1", features = ["v4"] } 
+solana-sdk = "1.16" 
+futures = "0.3" 
+anyhow = "1.0"  
+thiserror = "1.0"  
+reqwest = { version = "0.11", features = ["json"] }  
