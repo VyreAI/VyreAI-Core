@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/VyreAI/VyreAI-Core">
     <!-- Logo placeholder, add logo image URL -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    <img src="https://i.imgur.com/u6Wa96E.png" alt="Logo" width="200" height="200">
   </a>
 </h1>
 
@@ -16,6 +16,7 @@
 </h4>
 <br />
 
+$VYREAI CA: reveal soon
 ---
 
 ## About
