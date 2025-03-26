@@ -16,12 +16,12 @@
 </h4>
 <br />
 
-$VYREAI CA: reveal soon
+$VYREAI CA: 0x8a0dc565dafab9f34de03dff37ac614dff2c48e0
 ---
 
 ## About
 
-**VyreAI-Core** is a high-performance, AI-driven platform for cross-chain blockchain analysis that enables in-depth market intelligence, real-time predictive insights, and advanced pattern recognition across multiple blockchains, including Solana, Ethereum, and others.
+**VyreAI-Core** is a high-performance, AI-driven platform for cross-chain blockchain analysis that enables in-depth market intelligence, real-time predictive insights, and advanced pattern recognition across multiple blockchains, including Binance Smart Chain, Ethereum, and others.
 
 Designed to support the future of decentralized finance (DeFi) and other blockchain-based markets, VyreAI-Core offers a robust set of tools for advanced traders, market analysts, and developers. By integrating neural networks and advanced AI algorithms, it provides actionable insights that can predict trends, detect anomalies, and analyze market behaviors in near real-time.
 
