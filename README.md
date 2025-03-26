@@ -16,7 +16,6 @@
 </h4>
 <br />
 
-$VYREAI CA: 0x8a0dc565dafab9f34de03dff37ac614dff2c48e0
 ---
 
 ## About
